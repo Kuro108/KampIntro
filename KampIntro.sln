@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{A494634B-3275-44C5-B19C-DE6207E756DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{37385E67-6639-44FD-8448-58A91589CAE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{37385E67-6639-44FD-8448-58A91589CAE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C556A1E6-8B28-4B72-8285-812E860E0FE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C556A1E6-8B28-4B72-8285-812E860E0FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{84DB93F6-B24D-4EEF-B268-A029FE92C88B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{C556A1E6-8B28-4B72-8285-812E860E0FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C556A1E6-8B28-4B72-8285-812E860E0FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C556A1E6-8B28-4B72-8285-812E860E0FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DB93F6-B24D-4EEF-B268-A029FE92C88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DB93F6-B24D-4EEF-B268-A029FE92C88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DB93F6-B24D-4EEF-B268-A029FE92C88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DB93F6-B24D-4EEF-B268-A029FE92C88B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
