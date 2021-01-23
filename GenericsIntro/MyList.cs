@@ -8,7 +8,6 @@ namespace GenericsIntro
     {
         T[] items;
         //constructor
-        ctor
         public MyList()
         {
             items = new T[0];
@@ -22,7 +21,6 @@ namespace GenericsIntro
             {
                 items[i] = tempArray[i];
             }
-
             items[items.Length - 1] = item;
         }
     }
